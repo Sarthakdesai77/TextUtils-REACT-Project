@@ -1,9 +1,9 @@
 # MyTextUtils - React
 A tool for analyzing text data in REACT.
 
-Access TextUtils App: https://sarthak-textutils.netlify.app/
-GitHub Repo: https://bit.ly/3Q8fmAi
-GitHub Profile: https://bit.ly/3vLhVAp
+Access TextUtils App: https://sarthak-textutils.netlify.app/</br>
+GitHub Repo: https://bit.ly/3Q8fmAi</br>
+GitHub Profile: https://bit.ly/3vLhVAp</br>
 
 Hello everyone,
 Today I am glad to share that I have successfully created my first Single Page Application (𝐒𝐏𝐀) using #reactjs framework, 𝐓𝐞𝐱𝐭𝐔𝐭𝐢𝐥𝐬.
