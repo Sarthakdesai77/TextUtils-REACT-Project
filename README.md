@@ -2,7 +2,7 @@
 A tool for analyzing text data in REACT.
 
 ### live site:
-- https://textutils-by-sarthak.netlify.app/
+- https://sarthak-textutils.netlify.app/
 
 It is a simple REACT project or website in which we can Analyze text.
 
