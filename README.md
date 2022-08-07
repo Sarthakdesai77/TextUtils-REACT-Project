@@ -1,17 +1,9 @@
 # MyTextUtils - React
 A tool for analyzing text data in REACT.
 
-### live site:
-- https://sarthak-textutils.netlify.app/
-
-It is a simple REACT project or website in which we can Analyze text.
-
-<h1>What Can We do from Textutils ?</h1>
-1)lowercase<br>
-2)UPPERCASE<br>
-3)Capitalize<br>
-4)Sentencecase<br>
-5)Clear
+Access TextUtils App: https://sarthak-textutils.netlify.app/
+GitHub Repo: https://bit.ly/3Q8fmAi
+GitHub Profile: https://bit.ly/3vLhVAp
 
 Hello everyone,
 Today I am glad to share that I have successfully created my first Single Page Application (𝐒𝐏𝐀) using #reactjs framework, 𝐓𝐞𝐱𝐭𝐔𝐭𝐢𝐥𝐬.
@@ -22,12 +14,9 @@ Today I am glad to share that I have successfully created my first Single Page A
 -         Sentencecase
 -         Clear
 -         Character Counter
+-         Word Counter
 And 𝒎𝒂𝒏𝒚 𝒎𝒐𝒓𝒆 features (utilities) are on the way, I’m working on this App to make this App so useful.
 TextUtils App has Dark Mode and fully responsive as I have created this app with bootstrap.
-
-Access TextUtils App: https://sarthak-textutils.netlify.app/
-GitHub Repo: https://bit.ly/3Q8fmAi
-GitHub Profile: https://bit.ly/3vLhVAp
 
 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬 in the Whole Journey:
 Firstly, I get to know about building a single page application using react framework. How to use npm, npx
@@ -42,7 +31,5 @@ I also get to know about
 -  How to use 𝘣𝘰𝘰𝘵𝘴𝘵𝘳𝘢𝘱 𝘪𝘯 𝘳𝘦𝘢𝘤𝘵 by changing some tag like 𝒄𝒍𝒂𝒔𝒔 tag in 𝘣𝘰𝘰𝘵𝘴𝘵𝘳𝘢𝘱 changed to 𝒄𝒍𝒂𝒔𝒔𝑵𝒂𝒎𝒆 in 𝘳𝘦𝘢𝘤𝘵, 𝒇𝒐𝒓 in 𝘣𝘰𝘰𝘵𝘴𝘵𝘳𝘢𝘱 will become 𝒉𝒕𝒎𝒍𝑭𝒐𝒓 in 𝘳𝘦𝘢𝘤𝘵 and many more.
 -  A little bit about 𝑺𝑬𝑶
 
-This is all I have learned so far and will not stop learning at this time, while I am still learning.
-
-#𝐓𝐞𝐱𝐭𝐔𝐭𝐢𝐥𝐬 is a word counter, a character counter utility app which can be used to manipulate texts according to your needs. You can easily convert lowercase to uppercase and uppercase to lowercase, also you can remove extra spaces and you can copy the manipulated texts.
+#𝐓𝐞𝐱𝐭𝐔𝐭𝐢𝐥𝐬 is a word counter, a character counter utility app which can be used to manipulate texts according to your needs. You can easily convert lowercase to uppercase and uppercase to lowercase, also you can Capitalize and you can change to Sentencecase.
 Feel free to give your suggestion in comment.
