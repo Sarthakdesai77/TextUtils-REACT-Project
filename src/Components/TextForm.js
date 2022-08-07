@@ -30,14 +30,14 @@ export default function TextForm(props) {
     newText = newText.split('');
     console.log(newText[812]);
     for (let i = 0; i < newText.length; i++) {
-      if (newText[i] == '.' && newText[i + 2] != undefined) {
-        if (newText[i + 1] == ' ') {
+      if (newText[i] === '.' && newText[i + 2] !== undefined) {
+        if (newText[i + 1] === ' ') {
           newText[i + 2] = newText[i + 2].toUpperCase();
-        } else if (newText[i + 1] != ' ') {
+        } else if (newText[i + 1] !== ' ') {
           newText[i + 1] = newText[i + 1].toUpperCase();
         }
       }
-      if (newText[i] == '.' && typeof newText[i + 1] == 'string') {
+      if (newText[i] === '.' && typeof newText[i + 1] === 'string') {
         newText[i + 2] = newText[i + 2].toUpperCase();
       }
     }
@@ -65,20 +65,20 @@ export default function TextForm(props) {
             onChange={handleOnChange}
           />
         </div>
-        <div class="container">
-          <button className="btn btn-primary" onClick={handleUpCase}>
+        <div className="container">
+          <button className="btn btn-primary mx-2" onClick={handleUpCase}>
             Convert to Uppercase
           </button>
-          <button className="btn btn-primary mx-3" onClick={handleLoCase}>
+          <button className="btn btn-primary mx-2 my-2" onClick={handleLoCase}>
             Convert to lowercase
           </button>
-          <button className="btn btn-primary mx-1" onClick={handleCapCase}>
+          <button className="btn btn-primary mx-2 my-2" onClick={handleCapCase}>
             Capitalize
           </button>
-          <button className="btn btn-primary mx-2 my-2" onClick={handleScCase}>
+          <button className="btn btn-primary mx-2 my-1" onClick={handleScCase}>
             Sentence Case
           </button>
-          <button className="btn btn-primary mx-2 my-2" onClick={handleClCase}>
+          <button className="btn btn-primary mx-2 my-1" onClick={handleClCase}>
             Clear
           </button>
         </div>
